@@ -1,0 +1,14 @@
+Comparision Between Models 
+
+1. Linear Regression:
+    Mean 5.0452158237230345
+    Standard Deviation 1.0836212470386264
+
+2. Decision Tree: 
+    Mean 4.375965412256663
+    Standard Deviation 0.7808535064519112
+    
+3. Random Forest Regressor:
+    Mean 3.359247667961884
+    Standard Deviation 0.6679464961320496
+
